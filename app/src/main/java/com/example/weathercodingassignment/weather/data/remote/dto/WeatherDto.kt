@@ -1,4 +1,4 @@
-package com.example.codingtestassignment.weather.data.remote.dto
+package com.example.weathercodingassignment.weather.data.remote.dto
 
 import com.example.weathercodingassignment.utils.Constants
 import com.example.weathercodingassignment.weather.data.local.entity.WeatherEntity

@@ -1,7 +1,7 @@
 package com.example.weathercodingassignment.weather.data.remote
 
 import com.example.weathercodingassignment.utils.Constants
-import com.example.codingtestassignment.weather.data.remote.dto.WeatherDto
+import com.example.weathercodingassignment.weather.data.remote.dto.WeatherDto
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Query
